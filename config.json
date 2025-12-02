@@ -381,6 +381,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 9
+      },
+      {
+        "slug": "list-ops",
+        "name": "List Ops",
+        "uuid": "dbc2e58a-e01a-4f2f-af40-d03e0d70576e",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 9
       }
     ]
   },
